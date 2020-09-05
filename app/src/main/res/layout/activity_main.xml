@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#fff"
+
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+<ImageView
+    android:layout_marginTop="100dp"
+    android:layout_width="match_parent"
+    android:src="@drawable/logo"
+    android:layout_height="200dp" />
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:textSize="20sp"
+        android:textColor="@color/gold"
+        />
+    <EditText
+        android:id="@+id/editName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:backgroundTint="@color/gold"
+
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Number"
+
+        android:textSize="20sp"
+        android:textColor="@color/gold"
+        />
+
+    <EditText
+        android:id="@+id/editNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/gold"
+        android:inputType="phone"
+        android:textColor="#000"
+
+        android:textSize="20sp" />
+
+
+    <Button
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/buttonstyle"
+        android:onClick="save"
+android:layout_gravity="center"
+        android:text="SAVE"
+        android:textColor="@color/gold"
+        />
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="10dp" />
+    <Button
+
+        android:layout_width="wrap_content"
+        android:textColor="@color/gold"
+android:layout_gravity="center"
+        android:onClick="list"
+        android:background="@drawable/buttonstyle"
+        android:layout_height="wrap_content"
+        android:text="Show List" />
+
+
+
+
+</LinearLayout>
