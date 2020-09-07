@@ -1,5 +1,5 @@
 # Retrofit-CRUD-Implementation
-In this Application CRUD Implementation is done using Retrofit. Retrofit makes it easy to manipulate JSON data which is responsible for fetching, uploading data from the server. I used MySQL database to save data from user and Ofcourse in order to do that i have written some server side codes. I used my live server, created a folder in it and put php codes in there but you can use localhost too, just have to replace server name with your localhost ip in Client.java class followed by folder name where you put all the php codes.
+In this Application CRUD Implementation is done using Retrofit. Retrofit makes it easy to manipulate JSON data which is responsible for fetching, uploading data from and to the server. I used MySQL database to save data from user and Ofcourse in order to do that i have written some server side codes. I used my live server, created a folder in it and put php codes in there but you can use localhost too, just have to replace server name with your localhost ip in Client.java class followed by folder name where you put all the php codes.
 
 <B>App features</B>
 1. Insert user contact information in the server
