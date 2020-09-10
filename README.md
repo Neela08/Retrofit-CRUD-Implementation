@@ -17,6 +17,8 @@ In this Application CRUD Implementation is done using Retrofit. Retrofit makes i
 6. Customized button Style etc.//optional feature
 
 N.B. Make sure u change base url according to yours. 
+Structure of the database table: <br>
+![Screenshot (56)](https://user-images.githubusercontent.com/69322639/92793946-c4e04280-f3d0-11ea-8600-8aeaf070f99a.png)
 
 Some Screen Shots of this app:
 
@@ -32,6 +34,6 @@ Some Screen Shots of this app:
 4. A toast has confirmed about the updated item. <br>
 ![Screenshot_20200911-005027_Video Player](https://user-images.githubusercontent.com/69322639/92791640-a711de00-f3ce-11ea-81af-484159be45eb.jpg)
 
-5.Taking permission from the user to make a call after call button has pressed. <br>
+5. Taking permission from the user to make a call after call button has pressed.<br>
 ![Screenshot_20200911-005100_Video Player](https://user-images.githubusercontent.com/69322639/92791650-a8dba180-f3ce-11ea-8ed1-60cb7c93d0b1.jpg)
 
