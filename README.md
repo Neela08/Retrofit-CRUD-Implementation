@@ -17,3 +17,21 @@ In this Application CRUD Implementation is done using Retrofit. Retrofit makes i
 6. Customized button Style etc.//optional feature
 
 N.B. Make sure u change base url according to yours. 
+
+Some Screen Shots of this app:
+
+1. Main screen for inserting contact or fetching the contact list from server
+![Screenshot_20200911-004843_Video Player](https://user-images.githubusercontent.com/69322639/92791577-9a8d8580-f3ce-11ea-8f12-63e613e55e93.jpg)
+
+2. After pressing show list button all of the saved contacts are shown here in recycler view
+![Screenshot_20200911-004930_Video Player](https://user-images.githubusercontent.com/69322639/92791587-9bbeb280-f3ce-11ea-9e07-32d0cff6bb03.jpg)
+
+3. After long pressing an item , a dialog has opened for deleting/updating a the information in the item or calling.
+![Screenshot_20200911-004949_Video Player](https://user-images.githubusercontent.com/69322639/92791626-a416ed80-f3ce-11ea-841e-a9f261e032dc.jpg)
+
+4. A toast has confirmed about the updated item
+![Screenshot_20200911-005027_Video Player](https://user-images.githubusercontent.com/69322639/92791640-a711de00-f3ce-11ea-81af-484159be45eb.jpg)
+
+5.Taking permission from the user to make a call after call button has pressed
+![Screenshot_20200911-005100_Video Player](https://user-images.githubusercontent.com/69322639/92791650-a8dba180-f3ce-11ea-8ed1-60cb7c93d0b1.jpg)
+
