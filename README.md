@@ -16,7 +16,7 @@ In this Application CRUD Implementation is done using Retrofit. Retrofit makes i
 6. How to make a call within the app //optional feature
 6. Customized button Style etc.//optional feature
 
-N.B. Make sure u change base url according to yours. 
+N.B. Make sure u change base url according to yours.In php codes you have to write your own username,password and database name in order to connect to the database.
 Structure of the database table: <br>
 ![Screenshot (56)](https://user-images.githubusercontent.com/69322639/92793946-c4e04280-f3d0-11ea-8600-8aeaf070f99a.png)
 
